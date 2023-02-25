@@ -1,2 +1,3 @@
 # basic-CLI-simulation-vector
-A basic command-line interface simulation practice.
+A basic CLI simulation program to practice my abilities in C++ STL, specifically with vectors.
+
