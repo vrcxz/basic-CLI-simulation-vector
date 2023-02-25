@@ -81,7 +81,7 @@ vector<folder> previous_folder;
 
 
 
-//main function entry point
+//main
 int main()
 {
 	//previous_folder.push_back(directory);
