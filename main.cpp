@@ -44,7 +44,7 @@ void add_default_files();
 
 
 
-//text file class
+//text file struct
 struct text_file
 {
 	string name = "";
