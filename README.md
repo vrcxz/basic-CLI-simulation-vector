@@ -1,5 +1,5 @@
 # basic-CLI-simulation-vector
-A basic CLI simulation program to practice my abilities in C++ STL, specifically with vectors.
+A basic CLI simulation program to familiarize myself in C++ STL, specifically with vectors.
 
 
 ## Available Commands
