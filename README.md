@@ -20,4 +20,4 @@ exit - for exiting the program
 
 ---
 
-![ss](https://github.com/vonnogadas/basic-CLI-simulation-vector/blob/0641557d5d566d6443fab02407e78f0870858c36/screenshot/Untitled134_20230225231237.png)
+![ss](https://github.com/vonnogadas/basic-CLI-simulation-vector/blob/f36a9aa5070b41652cbd6d3951251807c5487f9d/screenshot/Untitled139_20230303120602.png)
