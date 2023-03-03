@@ -16,7 +16,7 @@ exit - for exiting the program
 ```
 ---
 ## Screenshot
-![ss](https://github.com/vonnogadas/basic-CLI-simulation-vector/blob/61ad0f7c6cefdd28de6730266d7cd965653b660a/screenshot/Untitled133_20230225224137.png)
+![ss](https://github.com/vonnogadas/basic-CLI-simulation-vector/blob/c1a21ce01db5a64e3ab758a67476698a5c533795/screenshot/Untitled139_20230303115848.png)
 
 ---
 
