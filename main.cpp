@@ -104,7 +104,14 @@ int main()
 			cout << i.name << "/";
 		}
 		cout << directory.name;
-		cout << ">>";
+		cout<<"~";
+		textcolor(RED);
+		cout << ">";
+		textcolor(YELLOW);
+		cout << ">";
+		textcolor(GREEN);
+		cout << ">";
+		textcolor(7);
 
 		//Ask for command
 		cin >> cli_input;
