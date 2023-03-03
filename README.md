@@ -3,7 +3,7 @@ A basic CLI simulation program to familiarize myself with C++ STL, specifically 
 
 
 ## Available Commands
-```dos
+```Bash
 cls - for clearing the screen
 cd - for changing directory
 dir - for viewing the current directory
