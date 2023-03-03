@@ -110,7 +110,7 @@ int main()
 		textcolor(YELLOW);
 		cout << ">";
 		textcolor(GREEN);
-		cout << ">";
+		cout << "> ";
 		textcolor(7);
 
 		//Ask for command
