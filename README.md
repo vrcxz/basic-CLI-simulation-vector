@@ -1,5 +1,5 @@
 # basic-CLI-simulation-vector
-A basic CLI simulation program to familiarize myself with C++ STL, specifically with vectors using tree (adjacency list).
+A basic CLI simulation program to familiarize myself with C++ STL, specifically with vectors using tree (adjacency list) data structure.
 
 
 ## Available Commands
